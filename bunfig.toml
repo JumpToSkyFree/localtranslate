@@ -1,0 +1,12 @@
+[test]
+# Always run tests in watch mode during development
+watch = false
+
+# Show test coverage
+coverage = true
+
+# Test timeout in milliseconds
+timeout = 5000
+
+# Test files pattern
+testPattern = ["**/*.test.ts", "**/*.spec.ts"]
