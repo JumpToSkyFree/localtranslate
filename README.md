@@ -1,5 +1,5 @@
 <div align="center">
-	<img src="./assets/Logo.png" alt="LocalTranslate Logo" width="100%">
+	<img src="https://raw.githubusercontent.com/JumpToSkyFree/localtranslate/main/assets/Logo.png" alt="LocalTranslate Logo" width="100%">
 </div>
 
 # LocalTranslate
@@ -14,7 +14,7 @@ A local terminal app text translator that uses LLMs to translate text of various
 LocalTranslate is not only built for translating text to other languages, it is built for conversations where you can pick how you can be addressed and how you can address the person you are speaking with in the translation and you can change the personality of how your text is being translated.
 
 <div align="center">
-	<img src="./assets/LocalTranslator.gif" alt="LocalTranslate Logo" width="100%">
+	<img src="https://raw.githubusercontent.com/JumpToSkyFree/localtranslate/main/assets/LocalTranslator.gif" alt="LocalTranslate Logo" width="100%">
 </div>
 
 ## Why i am making LocalTranslate
